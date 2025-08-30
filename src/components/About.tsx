@@ -41,7 +41,7 @@ const About = () => {
       <div className="container mx-auto px-4 max-w-4xl">
         <div className="text-center mb-20">
           <h2 className="text-4xl md:text-5xl font-bold tracking-tighter">
-            Who I Am
+            About Me
           </h2>
           <p className="text-lg text-muted-foreground mt-4 max-w-3xl mx-auto">
             A curious learner and BSc Engineering student with a passion for building scalable web apps and exploring machine learning to create impactful, intelligent technologies.
