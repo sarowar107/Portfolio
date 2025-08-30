@@ -1,4 +1,4 @@
-import { Code, BrainCircuit } from 'lucide-react';
+import { BrainCircuit } from 'lucide-react';
 import { Button } from './ui/button';
 
 const Header = () => {
