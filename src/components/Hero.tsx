@@ -13,7 +13,7 @@ const Hero = () => {
           <div className="flex justify-center mb-8">
             <div className="relative w-56 h-56 rounded-full bg-gradient-to-br from-primary via-accent to-secondary p-1 transition-transform duration-300 hover:scale-105 shadow-xl shadow-primary/20">
               <img
-                src="https://raw.githubusercontent.com/CUETStudentPortal/Photos/main/Original%20Profile.png"
+                src="/pictures/Profile.png"
                 alt="Sarowar Islam"
                 className="w-full h-full object-cover rounded-full"
               />
