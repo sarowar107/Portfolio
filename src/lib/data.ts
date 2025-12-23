@@ -84,14 +84,7 @@ export const SKILLS_DATA = [
 ];
 
 export const PROJECTS_DATA = [
-  {
-    title: "Aurene - E-commerce Platform",
-    description: "A modern e-commerce platform built with React, Vite, and Django. Represents the future of online shopping.",
-    tags: ["React", "Vite", "Python", "Django", "PostgreSQL", "Docker"],
-    imageUrl: "/pictures/aurene.png",
-    liveUrl: "https://aurene.netlify.app",
-    githubUrl: "https://github.com/sarowar107/Aurene",
-  },
+
    {
     title: "Ghoorni-CUET Portal",
     description: "A RESTful API that analyzes the sentiment of a given text, built with Python, Flask, and Scikit-learn.",
@@ -101,13 +94,14 @@ export const PROJECTS_DATA = [
     githubUrl: "https://github.com/sarowar107/Ghoorni-Frontend",
   },
   {
-    title: "Portfolio Generator",
-    description: "A web-based application that helps users create and manage their portfolios easily.",
+    title: "Personal Blog Platform",
+    description: "A feature-rich, statically generated blog website and Markdown for content creation.",
     tags: ["React", "Vite", "Python", "Django", "PostgreSQL"],
-    imageUrl: "/pictures/portfolio_generator.png",
-    liveUrl: "https://portfoliomakerfree.netlify.app/",
-    githubUrl: "https://github.com/sarowar107/Portfolio-Generator",
+    imageUrl: "/pictures/blog_platform.png",
+    liveUrl: "https://inkwel.netlify.app/",
+    githubUrl: "https://github.com/sarowar107/inkwell",
   },
+
   {
     title: "Book Cottage",
     description: "An online bookstore platform built with React, Vite, and Django.",
@@ -124,13 +118,20 @@ export const PROJECTS_DATA = [
     liveUrl: "https://sole-sphere.netlify.app/",
     githubUrl: "https://github.com/sarowar107/SoleSphere",
   },
-
   {
-    title: "Personal Blog Platform",
-    description: "A feature-rich, statically generated blog website and Markdown for content creation.",
+    title: "Portfolio Generator",
+    description: "A web-based application that helps users create and manage their portfolios easily.",
     tags: ["React", "Vite", "Python", "Django", "PostgreSQL"],
-    imageUrl: "/pictures/blog_platform.png",
-    liveUrl: "https://inkwel.netlify.app/",
-    githubUrl: "https://github.com/sarowar107/inkwell",
+    imageUrl: "/pictures/portfolio_generator.png",
+    liveUrl: "https://portfoliomakerfree.netlify.app/",
+    githubUrl: "https://github.com/sarowar107/Portfolio-Generator",
   },
+   {
+    title: "Aurene - E-commerce Platform",
+    description: "A modern e-commerce platform built with React, Vite, and Django. Represents the future of online shopping.",
+    tags: ["React", "Vite", "Python", "Django", "PostgreSQL", "Docker"],
+    imageUrl: "/pictures/aurene.png",
+    liveUrl: "https://aurene.netlify.app",
+    githubUrl: "https://github.com/sarowar107/Aurene",
+  }
 ];
